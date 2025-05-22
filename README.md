@@ -1,1 +1,3 @@
-git config --list
+hello
+author 
+bye
